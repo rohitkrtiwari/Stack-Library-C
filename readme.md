@@ -17,6 +17,7 @@ git clone https://github.com/rohitkrtiwari/C-Linked-List-Header.git
 
 ## **Starter Code**
 <pre>
+#include <stdio.h>
 #include "stack.h"
 int main()
 {
