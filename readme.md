@@ -58,7 +58,7 @@ X = Peek(s1);
 ## **st_size()**
 Returns the size of the Stack
 <pre>
-int s1 = st_size(s1);
+X = st_size(s1);
 </pre>
 
 ## **st_display()**
