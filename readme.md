@@ -11,7 +11,7 @@ The Top of a Stack pointes on Top of Stack as shown in the below image.
 
 ## **get repo**
 <pre>
-git clone https://github.com/rohitkrtiwari/C-Linked-List-Header.git 
+git clone https://github.com/rohitkrtiwari/Stack-Library-C.git 
 </pre>
 
 
@@ -23,7 +23,7 @@ int main()
 {
     Stack s1;                       // Stack Declaration
 
-    s1 = init(s1);                  // Initialize Stack with NULL
+    s1 = st_init(s1);                  // Initialize Stack with NULL
     
     st_functions();                 // Displays all the functions of this module
 
